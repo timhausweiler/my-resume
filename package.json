@@ -2,8 +2,8 @@
   "bin": {
     "resume-me": "./index.js"
   },
-  "name": "timhausweiler-resume",
-  "version": "1.0.0",
+  "name": "timhausweilers-resume",
+  "version": "1.0.1",
   "description": "my resume",
   "main": "index.js",
   "scripts": {
