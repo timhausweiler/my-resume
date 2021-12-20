@@ -1,0 +1,22 @@
+{
+  "name": "Tim Hausweiler",
+
+  "linkedin": "https://www.linkedin.com/in/tomatohammado/",
+  "github": "timhausweiler",
+  "proficientTechnologies": [
+      "Javascript",
+      "React",
+      "Vue",
+      "Node",
+      "Express",
+      "Mongodb",
+      "PostgreSQL",
+      "Python",
+      "Django",
+      "Wordpress",
+      "Drupal"
+  ],
+  "otherSkills": [
+      "Whatever"
+  ]
+}
